@@ -32,7 +32,7 @@ I am Charbel aka Murf, a self-taught Developer, who loves programming in a creat
 <a href="https://www.javascript.com/">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </a>
-<a href="typescriptlang.org">
+<a href="https://typescriptlang.org">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 </a>
 <a href="https://reactjs.org/">
