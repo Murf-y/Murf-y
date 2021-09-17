@@ -3,7 +3,7 @@
 I am Charbel aka Murf, a self-taught Developer, who loves programming in a creative manner.
 
 - 🔭 Currently Working on my personal website.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning flask.
 - 💬 Ask me about anything tech related.
 - 💪 Mastering python and js.
 
