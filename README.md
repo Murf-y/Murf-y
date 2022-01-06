@@ -70,7 +70,7 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Murf-y&show_icons=true&title_color=E43F4A&icon_color=E43F4A&border_radius=35&bg_color=2D3141&text_color=187794&border_color=E43F4A&custom_title=My%20Github%20stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murf-y&exclude_repo=Rockvader&langs_count=8&theme=tokyonight&layout=compact&title_color=E43F4A&icon_color=E43F4A&border_radius=35&bg_color=2D3141&text_color=187794&border_color=E43F4A" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murf-y&exclude_repo=Rockvader&langs_count=10&&hide=HLSL,ShaderLab&theme=tokyonight&layout=compact&title_color=E43F4A&icon_color=E43F4A&border_radius=35&bg_color=2D3141&text_color=187794&border_color=E43F4A" />
 </a>
 </div>
 
