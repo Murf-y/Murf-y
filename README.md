@@ -6,6 +6,7 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
 - <img src="assets/134-target-outline.gif" width="30"> I’m currently learning flutter.
 - <img src="assets/19-magnifier-zoom-search-outline.gif" width="30"> Ask me about anything tech related.
 - <img src="assets/focus.gif" width="30"> Mastering python and dart.
+- More info [here](https://murf-y.github.io/)
 
 
 # Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
@@ -58,14 +59,14 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
   <img align="left" width="32px" src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png">
 </a>
 <a href= "https://www.linkedin.com/in/charbel-fayad-7ba9b1203/">
-  <img width ="32px" src="linkedin.png">
+  <img width ="32px" src="assets/linkedin.png">
 </a>
 <br />
 
 # Stats <img src="assets/stats.gif" width="40">
 ![Profile views](https://komarev.com/ghpvc/?username=Murf-y)
 
-<div style="align-content: space-between">
+<div style="display:flex; justify-content:center; align-content: space-between">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Murf-y&show_icons=true&title_color=E43F4A&icon_color=E43F4A&border_radius=35&bg_color=2D3141&text_color=187794&border_color=E43F4A&custom_title=My%20Github%20stats" />
 </a>
