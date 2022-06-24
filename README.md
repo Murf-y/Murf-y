@@ -2,10 +2,10 @@
 
 I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves programming in a creative manner.
 
-- <img src="assets/112-book-morph-outline.gif" width="30"> Currently Working on an app.
-- <img src="assets/134-target-outline.gif" width="30"> I’m currently learning flutter.
+- <img src="assets/112-book-morph-outline.gif" width="30"> Currently working as software engineer.
+- <img src="assets/134-target-outline.gif" width="30"> I’m currently learning nextjs.
 - <img src="assets/19-magnifier-zoom-search-outline.gif" width="30"> Ask me about anything tech related.
-- <img src="assets/focus.gif" width="30"> Mastering python and dart.
+- <img src="assets/focus.gif" width="30"> Mastering python and js.
 - More info [here](https://murf-y.github.io/)
 
 
