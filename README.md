@@ -11,68 +11,39 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
 
 # Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
 
-<a href="https://code.visualstudio.com/">
-<img height="25" src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667">
-</a>
-<a href="/" >
-<img height="25" src="https://cdn.discordapp.com/attachments/765049600817233931/781425295622012968/visual-studio-code.png" >
-</a>
-<a href="https://flutter.dev/">
-<img height="25" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667">
-</a>
-<br>
-<a href="https://git-scm.com/">
-<img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img height="25" src="https://cdn.discordapp.com/attachments/765049600817233931/781426103742234634/html.png">
-</a>
-<a href="https://www.javascript.com/">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</a>
-<a href="https://typescriptlang.org">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-</a>
-<a href="https://reactjs.org/">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</a>
-<br>
-<a href="https://firebase.google.com/">
-<img height="25" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667">
-</a>
-<a href="https://nodejs.org/en/">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</a>
-<a href="https://unity.com">
-<img height="25" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
-</a>
-<a href="https://blender.org">
-  <img height="25" src="https://img.icons8.com/fluent/144/000000/blender-3d.png"/>
-</a>
-<a href="https://www.python.org/">
-  <img height="25" src="https://img.icons8.com/color/96/000000/python.png"/>
-</a>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-# My Socials <img src="assets/social.gif" width="40">
+### Socials
 
-<a href="https://twitter.com/Murf_y">
-  <img align="left" width="32px" src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png">
-</a>
-<a href= "https://www.linkedin.com/in/charbel-fayad-7ba9b1203/">
-  <img width ="32px" src="assets/linkedin.png">
-</a>
-<br />
+<p align="left"> <a href="https://discord.com/users/Murf#1533" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Murf-y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charbel-fayad-7ba9b1203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Murf_y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 # Stats <img src="assets/stats.gif" width="40">
 ![Profile views](https://komarev.com/ghpvc/?username=Murf-y)
+<a href="http://www.github.com/Murf-y"><img src="https://github-readme-stats.vercel.app/api?username=Murf-y&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Murf-y's GitHub stats" /></a>
 
-<div style="display:flex; justify-content:center; align-content: space-between">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Murf-y&show_icons=true&title_color=E43F4A&icon_color=E43F4A&border_radius=35&bg_color=2D3141&text_color=187794&border_color=E43F4A&custom_title=My%20Github%20stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murf-y&exclude_repo=Rockvader&langs_count=10&&hide=HLSL,ShaderLab&theme=tokyonight&layout=compact&title_color=E43F4A&icon_color=E43F4A&border_radius=35&bg_color=2D3141&text_color=187794&border_color=E43F4A" />
-</a>
-</div>
+<a href="https://github.com/Murf-y" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murf-y&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/Murf-y/Attractors-Simulation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murf-y&repo=Attractors-Simulation&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
