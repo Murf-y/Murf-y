@@ -8,6 +8,8 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
 - <img src="assets/focus.gif" width="30"> Mastering python and js.
 - More info [here](https://murf-y.github.io/)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
 # Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
 
 <p align="left">
