@@ -6,7 +6,7 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
 - <img src="assets/134-target-outline.gif" width="30"> I’m currently learning Genetic Programming.
 - <img src="assets/19-magnifier-zoom-search-outline.gif" width="30"> Ask me about anything tech related.
 - <img src="assets/focus.gif" width="30"> Mastering python and ts.
-- More info [here](https://murf-y.github.io/)
+- More info [here](https://murfy.netlify.app/)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
