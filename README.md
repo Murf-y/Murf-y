@@ -35,6 +35,7 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"> 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%4DB33D.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 <hr>
 
@@ -112,4 +113,8 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Murf-y/Attractors-Simulation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murf-y&repo=Attractors-Simulation&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+<div width="100%" align="center"><a href="https://github.com/Murf-y/Attractors-Simulation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murf-y&repo=Attractors-Simulation&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div><br />
+<div width="100%" align="center"><a href="https://github.com/Murf-y/LBP-DollarRate-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Murf-y&repo=LBP-DollarRate-API&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en" /></a></div>
+</p>
+<br /><br /><br /><br /><br /><br />
