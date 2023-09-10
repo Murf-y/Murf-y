@@ -2,8 +2,8 @@
 
 I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves programming in a creative manner.
 
-- <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a research in ML
-- <img src="assets/134-target-outline.gif" width="30"> I’m currently learning Genetic Programming.
+- <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a research in Network Science and Machine learning
+- <img src="assets/134-target-outline.gif" width="30"> I’m currently learning Rust
 - <img src="assets/19-magnifier-zoom-search-outline.gif" width="30"> Ask me about anything tech related.
 - <img src="assets/focus.gif" width="30"> Mastering python and ts.
 - More info [here](https://murfy.netlify.app/)
