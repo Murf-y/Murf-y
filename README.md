@@ -92,6 +92,7 @@ I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves
 [![trophy](https://github-profile-trophy.vercel.app/?username=murf-y&column=8&margin-w=15&margin-h=15&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murf-y&label=Profile%20views&color=0e75b6&style=flat" alt="murf-y" /> </p>
 
+[![Comitters Rank In Region](https://user-badge.committers.top/lebanon_private/Murf-y.svg)](https://user-badge.committers.top/lebanon_private/Murf-y)
 
 # Stats <img src="assets/stats.gif" width="40">
  <div align="center">
